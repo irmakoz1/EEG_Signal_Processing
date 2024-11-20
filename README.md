@@ -1,6 +1,6 @@
 # EEG Signal Processing Extended Repository
 
-It contains 
+It contains :
 
 Time Frequency Analysis scripts in MATLAB for my master thesis.
 
