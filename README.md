@@ -2,6 +2,8 @@
 
 It contains :
 
+An EEG experiment with vocal emotion production for my master thesis in MATLAB.
+
 Time Frequency Analysis scripts in MATLAB for my master thesis.
 
 Python scripts for ERD-ERS analysis for my master thesis.
