@@ -1,4 +1,4 @@
-PATH='/home/benis/Irmak/2_TF';cd(PATH);
+PATH='/2_TF';cd(PATH);
 GO=dir('TF_FT_S*.mat');FILES=extractfield(GO,'name');
 EPOCKES=dir('eS*.mat');FILES_EP=extractfield(EPOCKES,'name');load('LABELS.mat');
 RAW=dir('FT_*.mat');FILES_RAW=extractfield(RAW,'name');
