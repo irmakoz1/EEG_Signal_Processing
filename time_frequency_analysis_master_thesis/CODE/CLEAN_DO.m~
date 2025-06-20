@@ -1,5 +1,5 @@
-PATH='/home/benis/Irmak/2_TF';cd(PATH);
-PATH_SEPFILES='/home/benis/Irmak/3_CONDITIONS_TF';
+PATH='/2_TF';cd(PATH);
+PATH_SEPFILES='/3_CONDITIONS_TF';
 GO=dir('TF_FT*.mat');FILES=extractfield(GO,'name');
 EPOCKES=dir('eS*.mat');FILES_EP=extractfield(EPOCKES,'name');load('LABELS.mat');
 THRS=load('THR.mat');cd(PATH);D=load(FILES{1});D=D.freq_LOWFREQ;TRIALINFO=D.trialinfo;
