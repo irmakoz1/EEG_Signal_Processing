@@ -1,4 +1,4 @@
-PATH='/home/benis/Irmak/2_TF';cd(PATH);
+PATH='/2_TF';cd(PATH);
 GO=dir('PtP_S*.mat');FILES=extractfield(GO,'name');
 
 
